@@ -1,9 +1,15 @@
 ---
-title: "Projects"
+title: "Current Projects"
 ---
 
 ## Project 1
 
+Cool Project 1
+
 ## Project 2
 
+Amazing Project 2
+
 ## Project 3
+
+Banana Project 3
