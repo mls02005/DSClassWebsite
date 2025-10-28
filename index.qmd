@@ -10,6 +10,7 @@ about:
 
 ## Goals
 To do Fun Science
+
 ## Education
 UCONN
 Colorado State University
