@@ -1,7 +1,7 @@
 ---
-title: "About Me"
+title: "Megan Munis, DVM"
 about:
-  id: me
+  id: meg
   template: broadside
   image: img/IMG_6853.jpg
 ---
@@ -9,11 +9,14 @@ about:
 :::{#me}
 
 ## Goals
-
+To do Fun Science
 ## Education
+UCONN
+Colorado State University
+University of New Hampshire
 
 ## Experience
-
+lots of things and stuff
 :::
 
-Thanks for checking out my web site!
+Lets Collaborate! 
