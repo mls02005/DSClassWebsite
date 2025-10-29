@@ -3,7 +3,7 @@ title: "Megan Munis, DVM"
 about:
   id: meg
   template: broadside
-  image: img/IMG_6853.jpg
+  image: img/IMG_6853.jpg 
 ---
 
 :::{#me}

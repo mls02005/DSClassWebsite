@@ -3,7 +3,7 @@ title: "Current Projects"
 ---
 
 ## Project 1
-
+ 
 Cool Project 1
 
 ## Project 2

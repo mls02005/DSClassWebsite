@@ -1,23 +1,58 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "Cool Project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Current Projects",
+    "section": "",
+    "text": "Cool Project 1"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
-    "title": "Projects",
+    "title": "Current Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nAmazing Project 2"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
-    "title": "Projects",
+    "title": "Current Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nBanana Project 3"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Megan Munis, DVM",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "To do Fun Science\n\n\n\nUCONN Colorado State University University of New Hampshire\n\n\n\nlots of things and stuff\nLets Collaborate!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Megan Munis, DVM",
+    "section": "",
+    "text": "To do Fun Science"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Megan Munis, DVM",
+    "section": "",
+    "text": "UCONN Colorado State University University of New Hampshire"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Megan Munis, DVM",
+    "section": "",
+    "text": "lots of things and stuff"
   }
 ]
