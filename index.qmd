@@ -9,7 +9,7 @@ about:
 :::{#me}
 
 ## Goals
-To do Fun Science
+Fun Science
 
 ## Education
 UCONN
